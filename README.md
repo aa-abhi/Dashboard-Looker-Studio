@@ -1,6 +1,6 @@
 # Dashboard- Data Studio(Looker)
 This repository contains a dashboard created in Looker Studio. The purpose of this dashboard is to provide insights and visualizations based on the provided dataset.
-* Dashboard URL- https://lookerstudio.google.com/s/tkDy_EOQrjY
+* Dashboard URL- https://lookerstudio.google.com/s/lFzVH9yxiFM
 
 # Dataset
 The dataset used for this dashboard is located in the file data.csv. It includes columns such as "index, Order ID, Cust ID, Gender, Age, Date, Status, Channel, SKU Category, Size, Qty, currency, Amount, ship-city, ship-state, ship-postal-code, ship-country, B2B".
